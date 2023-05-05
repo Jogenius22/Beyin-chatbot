@@ -349,6 +349,9 @@ export default function Home() {
         </footer>
       </div>
     </main>
+    <div className="boxImg">
+          <img src="/gpt.png" alt="gpt icon" className="" />
+        </div>
   </div>
 </>
   );
