@@ -54,7 +54,7 @@ export const OpenAIStream = async (prompt: string, query: string, apiKey: string
         }
       ],
       max_tokens: 250,
-      temperature: 0.7,
+      temperature: 0.0,
       stream: true
     })
   });
